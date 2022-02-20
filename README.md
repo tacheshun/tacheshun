@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I've been working both for small and big companies in a wide range of projects: e-commerce platforms, ride-sharing apps, tubes websites, internal evaluation software, supply-chain management apps and application tracking systems.
 
-⚡ My interests are in the area of distributed systems, cloud-native and fault-tolerant architectures and Go programming language, so keep that in mind if you want to get in touch.
+⚡ My interests are in the area of distributed systems, cloud-native apps, fault-tolerant architectures and Go programming language, so keep that in mind if you want to get in touch.
 
 ✅ Tech I used in production environment: Go(golang), Python, PHP, Java, PostgreSQL, MySQL, Redis, Elasticsearch, Prometheus, Grafana, Docker, Kubernetes, CloudFoundry, RabbitMQ, REST, gRPC, Google Cloud Platform, Microsoft Azure.
 
