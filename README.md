@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 ✅ Tech I used in production environment: Go(golang), Python, PHP, Java, PostgreSQL, MySQL, Redis, Elasticsearch, Prometheus, Grafana, Docker, Kubernetes, CloudFoundry, RabbitMQ, REST, gRPC, Google Cloud Platform, Microsoft Azure.
 
-📫  Reach me at: marius.costache.b@gmail.com
-
 🤔  More info on my <a href="https://www.linkedin.com/in/mariuscostache/">linkedin page</a>.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacheshun&theme=buefy&layout=compact)
