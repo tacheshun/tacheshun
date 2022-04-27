@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 I'm an experienced software developer/engineer building high quality and high traffic web applications and APIs since 2011.
 
-🌱 I've been working both for small and big companies in a wide range of projects: e-commerce platforms, ride-sharing apps, tubes websites, internal evaluation software, supply-chain management apps and application tracking systems.
+🌱 I've been working both for small and big companies in a wide range of projects: e-commerce platforms, ride-sharing apps, tubes websites, IoT platforms, internal evaluation software, supply-chain management apps and application tracking systems.
 
 ⚡ My interests are in the area of distributed systems, cloud-native apps, fault-tolerant architectures and Go programming language, so keep that in mind if you want to get in touch.
 
