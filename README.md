@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ⚡ My interests are in the area of distributed systems, cloud-native apps, fault-tolerant architectures and Go programming language, so keep that in mind if you want to get in touch.
 
-✅ Tech I used in production environment: Go(golang), Python, PHP, Java, PostgreSQL, MySQL, Redis, Elasticsearch, Prometheus, Grafana, Docker, Kubernetes, CloudFoundry, RabbitMQ, REST, gRPC, Google Cloud Platform, Microsoft Azure.
-
 🔭 I don't really care about programming languages, they are just tools to do the job. That being said though, I prefer Go(golang) because I just want to get better at it in the next couple of years. 
 
-💬 If you have an interesting project and you think I can help, you can write me(see contact information below). 
+✅ Tech I used in production environment: Go(golang), Python, PHP, Java, PostgreSQL, MySQL, Redis, Docker, Kubernetes, RabbitMQ, REST, gRPC,  Elasticsearch, Prometheus, Grafana, Google Cloud Platform, Microsoft Azure.
+
+💬 If you have an interesting project and you think I can help, you can write me(see contact information below). My area of expertise is mostly backend and cloud.
 
 🤔  More info on my <a href="https://www.linkedin.com/in/mariuscostache/">linkedin page</a>.
 
