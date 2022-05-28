@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 I don't really care about programming languages, they are just tools to do the job. That being said though, I prefer Go(golang) because I just want to get better at it in the next couple of years. 
 
-✅ Tech I used in production environment and I want to continue using in the future: Go(golang), Python, Java, PostgreSQL, Redis, Docker, Kubernetes, REST, gRPC, Prometheus, Grafana, Google Cloud Platform(mainly GKE, Compute Engine, Cloud SQL and Cloud Storage)
+✅ Tech I used in production environment and I want to continue using in the future: Go(golang), PostgreSQL, Redis, Docker, Kubernetes, REST API's, gRPC, Prometheus, Google Cloud Platform.
 
 💬 If you have an interesting project and you think I can help, you can write me(see contact information below). My area of expertise is mostly backend and cloud.
 
