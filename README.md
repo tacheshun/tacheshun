@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I'm an experienced software developer/engineer building high quality and high traffic web applications and APIs since 2011.
+🚀 I'm an experienced software developer/engineer building high quality and high traffic web applications and APIs since 2011. 
 
 🌱 I've been working both for small and big companies in a wide range of projects: e-commerce platforms, ride-sharing apps, tubes websites, IoT platforms, internal evaluation software, supply-chain management apps and application tracking systems.
 
-⚡ My interests are in the area of distributed systems, cloud-native apps, fault-tolerant architectures and Go programming language, so keep that in mind if you want to get in touch.
+⚡ My interests are in the area of distributed systems, cloud-native apps and Go programming language, so keep that in mind if you want to get in touch.
 
-🔭 I don't really care about programming languages, they are just tools to do the job. That being said though, I prefer Go(golang) because I just want to get better at it in the next couple of years. 
-
-✅ Tech I used in production environment and I want to continue using in the future: Go(golang), PostgreSQL, Redis, Docker, Kubernetes, REST API's, gRPC, Prometheus, Google Cloud Platform.
-
-💬 If you have an interesting project and you think I can help, you can write me(see contact information below). My area of expertise is mostly backend and cloud.
+✅ Tech I used in production environment and I want to continue using in the future: Go(golang), PostgreSQL, Docker, Kubernetes, REST API's, gRPC, Google Cloud Platform.
 
 🤔  More info on my <a href="https://www.linkedin.com/in/mariuscostache/">linkedin page</a>.
 
