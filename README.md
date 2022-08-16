@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ⚡ My interests are in the area of distributed systems, cloud-native apps and Go programming language, so keep that in mind if you want to get in touch.
 
-✅ Tech I used in production environment and I want to continue using in the future: Go(golang), PostgreSQL, Docker, Kubernetes, REST API's, gRPC, Google Cloud Platform.
+✅ Tech I used in production environment and I would like to continue using in the future: Go(golang), PostgreSQL, Docker, Kubernetes, REST API's, gRPC, Google Cloud Platform.
 
 🤔  More info on my <a href="https://www.linkedin.com/in/mariuscostache/">linkedin page</a>.
 
