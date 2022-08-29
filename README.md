@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
 🤔  More info on my <a href="https://www.linkedin.com/in/mariuscostache/">linkedin page</a>.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacheshun&theme=buefy&layout=compact)
