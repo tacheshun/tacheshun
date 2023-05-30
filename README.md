@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 💻 I am targeting technical roles at the senior level or above(Staff, Principal, Architect, etc). My preference is for remote or hybrid full-time positions. At this time, I am not open to on-site roles or relocation in other country.
 
 📫 Reach me at: <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
+
 🤔  <a href="https://www.linkedin.com/in/mariuscostache/">My Linkedin</a>.
 
