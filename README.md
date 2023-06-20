@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 As an established software engineer and technical lead since 2011, I have dedicated myself to constructing high-quality, high-traffic web applications and APIs.
+🚀 Software engineer since 2011, dedicated to building high-quality, high-traffic web applications and APIs.
 
-🌱 I've had the opportunity to collaborate with various organizations, from startups to established companies, contributing to an array of projects. These include e-commerce platforms, ride-sharing apps, supply-chain management systems, and application tracking systems, to name a few. I thrive in small, dynamic teams but also excel independently, managing the full software development life cycle—from requirements gathering to delivery and maintenance.
+🌱 I've had the opportunity to collaborate with various organizations, from startups to established companies, contributing to an large array of projects. These include e-commerce platforms, ride-sharing apps, supply-chain management systems and application tracking systems, to name a few. I thrive in small, dynamic teams but also excel independently, managing the full software development life cycle—from requirements gathering to delivery and maintenance.
 
 ⚡ My professional interests encompass distributed systems, cloud-native architectures, and the Go programming language. If these areas align with your needs, I would be delighted to connect.
 
