@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ✅ My practical experience includes working with technologies such as Go (Golang), Java, PostgreSQL, MySQL, Redis, gRPC, Docker, Kubernetes, GCP and Microsoft Azure in production environments.
 
-⚡ My professional interests encompass distributed systems, cloud-native architectures, and the Go programming language. If these areas align with your needs, I would be delighted to connect.
-
 💻 I am targeting technical roles at the senior level or above(Staff, Principal, Architect, etc). My preference is for remote or hybrid full-time positions. At this time, I am not open to on-site roles or relocation in other country.
 
 📫 Reach me at: <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
