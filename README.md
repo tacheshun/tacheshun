@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 📫 Reach me at: <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
-🤔  <a href="https://www.linkedin.com/in/mariuscostache/">My Linkedin</a>.
+⚡  <a href="https://www.linkedin.com/in/mariuscostache/">My Linkedin</a>.
 
