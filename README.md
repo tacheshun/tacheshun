@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Software engineer since 2011, dedicated to building high-quality, high-traffic web applications and APIs.
+🚀 As a seasoned software engineer with over a decade of experience, I specialize in developing robust, scalable web applications and APIs. My journey in the tech industry has allowed me to collaborate with diverse organizations, from  startups to well-established companies. My portfolio includes a mix of projects such as e-commerce platforms, ride-sharing applications, supply-chain management systems, and IoT solutions.
 
-🌱 I've had the opportunity to collaborate with various organizations, from startups to established companies, contributing to an large array of projects. These include e-commerce platforms, ride-sharing apps, supply-chain management systems, IoT platforms and application tracking systems, to name a few. I thrive in small, dynamic teams but also excel independently, managing the full software development life cycle—from requirements gathering to delivery and maintenance.
+🌱 I am known for my adaptability, thriving in both dynamic team environments and in roles requiring strong independent leadership. My technical expertise encompasses a broad spectrum of technologies including Go, Python, PHP, Java, and several database and cloud platforms. These skills have been honed through hands-on experience in production environments across a range of platforms including AWS, GCP, and Azure.
 
-✅ My practical experience includes working with technologies such as Go, Python, PHP, Java, PostgreSQL, MySQL, Redis, gRPC, REST APIs, Docker, Kubernetes, Kafka, RabbitMQ, GCP and Microsoft Azure in production environments.
+✅ Tech stack: Go, Python, Java, PHP, PostgreSQL, MySQL, Redis, gRPC, REST APIs, Docker, Kubernetes, Kafka, RabbitMQ, AWS, GCP and Microsoft Azure in production environments.
 
 💻 I am targeting technical team lead roles or senior and above level IC roles(Staff, Principal, etc). My preference is for remote or hybrid full-time positions. At this time, I am not open to on-site roles or relocation in other country.
 
 📫 Reach me at: <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
-⚡  <a href="https://www.linkedin.com/in/mariuscostache/">My Linkedin</a>.
+⚡ <a href="https://www.linkedin.com/in/mariuscostache/">My Linkedin</a>.
 
