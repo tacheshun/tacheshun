@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 As a seasoned software engineer with over a decade of experience, I specialize in developing robust, scalable web applications and APIs. My journey in the tech industry has allowed me to collaborate with diverse organizations, from  startups to well-established companies. My portfolio includes a mix of projects such as e-commerce platforms, ride-sharing applications, supply-chain management systems, security platforms(EDR software) and IoT solutions.
 
-✅ Tech stack: Go, Python, Java, PHP, PostgreSQL, MySQL, Redis, Docker, Kubernetes, Kafka, RabbitMQ, AWS, GCP and Microsoft Azure in production environments.
+✅ Tech stack: Go, Python, Java, PostgreSQL, MySQL, Redis, Docker, Kubernetes, Kafka, RabbitMQ, AWS, GCP and Microsoft Azure in production environments.
 
 💻 I am targeting technical team lead roles or senior and above level IC roles(Staff, Principal, etc). My preference is for remote or hybrid full-time positions. At this time, I am not open to on-site roles or relocation in other country.
 
