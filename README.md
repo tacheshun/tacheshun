@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 As a seasoned software engineer with over a decade of experience, I specialize in developing robust, scalable web applications and APIs. My journey in the tech industry has allowed me to collaborate with diverse organizations, from  startups to well-established companies. My portfolio includes a mix of projects such as e-commerce platforms, ride-sharing applications, supply-chain management systems, security platforms(EDR software) and IoT solutions.
+🚀 I'm a skilled backend engineer specializing in building scalable websites and APIs using Go, Python, and Java. I have experience with databases (PostgreSQL, MySQL), containerization (Docker, Kubernetes), messaging systems (Kafka, RabbitMQ), and major cloud providers (AWS, GCP, Azure).  
+
+🌱 Let's discuss how I can help your project succeed.
 
 ✅ Tech stack: Go, Python, Java, PostgreSQL, MySQL, Redis, Docker, Kubernetes, Kafka, RabbitMQ, AWS, GCP and Microsoft Azure in production environments.
 
-💻 I am targeting technical team lead roles or senior and above level IC roles(Staff, Principal, etc). My preference is for remote or hybrid full-time positions. At this time, I am not open to on-site roles or relocation in other country.
+📫 Contact me at <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
-📫 Reach me at: <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
-
-⚡ <a href="https://www.linkedin.com/in/mariuscostache/">My Linkedin</a>.
+⚡ References <a href="https://www.linkedin.com/in/mariuscostache/">here</a>.
 
