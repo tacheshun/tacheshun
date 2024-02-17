@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🌱 Let's discuss how I can help your project succeed.
 
-✅ Tech stack: Go, Python, Java, PostgreSQL, MySQL, Redis, Docker, Kubernetes, Kafka, RabbitMQ, AWS, GCP and Microsoft Azure in production environments.
-
 📫 Contact me at <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
 ⚡ References <a href="https://www.linkedin.com/in/mariuscostache/">here</a>.
