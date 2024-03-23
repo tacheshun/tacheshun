@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I'm a skilled backend engineer specializing in building scalable websites and APIs using Go, Python, and Java. I have experience with databases (PostgreSQL, MySQL), containerization (Docker, Kubernetes), messaging systems (Kafka, RabbitMQ), and major cloud providers (AWS, GCP, Azure).  
+🚀 I'm a skilled backend engineer specializing in building scalable websites and APIs. I like Go programming language, but in the past I worked professionally with Python, PHP, and Java. I have experience with relational databases (PostgreSQL, MySQL), some NoSQL databases(Redis, Clickhouse) container technology (Docker, Kubernetes), messaging systems (Kafka, RabbitMQ), and major cloud providers (AWS, GCP, Azure).  
 
 📫 Contact me at <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
