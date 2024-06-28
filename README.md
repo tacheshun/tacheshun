@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Marius
 
-🚀 I'm a backend engineer specializing in building scalable websites and APIs. I like Go programming language, but I also have some experience with Python, PHP, and Java. I have experience with relational databases (PostgreSQL, MySQL), some NoSQL databases(Redis, Elastic) container technology (Docker, Kubernetes), messaging systems (Kafka, RabbitMQ), and public cloud providers such as AWS and Azure.  
+🚀 I'm a software engineer specializing in building scalable applications and APIs. I like Go programming language, Kubernetes and cloud native apps. 
 
 📫 Contact me at <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
