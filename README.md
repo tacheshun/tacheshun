@@ -4,5 +4,4 @@
 
 ⚡ Practical experience with different stacks and technologies such as Go, Python, Java, Postgres, Redis, Kubernetes, Docker, Kafka, RabbitMQ, AWS and Microsoft Azure in production environments.
 
-📫 Contact me at <a href="mailto:marius.costache@icloud.com">marius.costache@icloud.com</a>.
 
